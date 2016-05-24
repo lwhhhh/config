@@ -503,7 +503,7 @@
 	"python.formatting.yapfPath": "yapf",
 
 	// Format the document upon saving.
-	"python.formatting.formatOnSave": true,
+	"python.formatting.formatOnSave": false,
 
 	// The output window name for the formatting messages, defaults to Python output window.
 	"python.formatting.outputWindow": "Python",
